@@ -4,4 +4,4 @@ class Dog
   end
 end
 
-
+getName(Fido)
