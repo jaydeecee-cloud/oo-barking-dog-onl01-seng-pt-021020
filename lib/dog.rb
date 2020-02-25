@@ -3,3 +3,5 @@ class Dog
     puts "woof!"
   end
 end
+
+fido.name = "Fido"
