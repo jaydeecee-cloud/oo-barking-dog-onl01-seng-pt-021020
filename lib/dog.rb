@@ -3,5 +3,3 @@ class Dog
     puts "woof!"
   end
 end
-
-getName(Fido)
